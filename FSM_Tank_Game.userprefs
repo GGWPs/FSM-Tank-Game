@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SimpleFSM\SimpleFSM.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AdvancedFSM\FSMState.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AdvancedFSM\AdvancedFSM.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AdvancedFSM\NPCTankController.cs" Line="95" Column="25" />
+      <File FileName="Assets\Scripts\AdvancedFSM\AttackState.cs" Line="16" Column="2" />
+      <File FileName="Assets\Editor\Doxygen\Resources\BaseDoxyfile.txt" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Misc\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Misc\PlayerTankController.cs" Line="17" Column="33" />
+      <File FileName="Assets\Scripts\Misc\Bullet.cs" Line="17" Column="2" />
+      <File FileName="Assets\Scripts\AdvancedFSM\PatrolState.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SimpleFSM\FSM.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SimpleFSM\SimpleFSM.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
